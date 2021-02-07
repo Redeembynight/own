@@ -1,4 +1,8 @@
 # > Microsoft
+DOMAIN-SUFFIX,aka.ms,PROXY
+DOMAIN-SUFFIX,onedrive.live.com,PROXY
+DOMAIN,az416426.vo.msecnd.net,PROXY
+DOMAIN,az668014.vo.msecnd.net,PROXY
 DOMAIN-SUFFIX,hotmail.com,DIRECT
 DOMAIN-SUFFIX,microsoft.com,DIRECT
 DOMAIN-SUFFIX,msecnd.net,DIRECT
