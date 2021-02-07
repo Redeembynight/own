@@ -69,15 +69,6 @@ DOMAIN,d22qjgkvxw22r6.cloudfront.net,Streaming
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Streaming
 DOMAIN,d27xxe7juh1us6.cloudfront.net,Streaming
 DOMAIN-KEYWORD,avoddashs,Streaming
-# > Apple TV
-DOMAIN,linear.tv.apple.com,Streaming
-DOMAIN,play-edge.itunes.apple.com,Streaming
-# > Bahamut
-USER-AGENT,Anime*,Streaming
-DOMAIN-SUFFIX,bahamut.com.tw,Streaming
-DOMAIN-SUFFIX,gamer.com.tw,Streaming
-DOMAIN,gamer-cds.cdn.hinet.net,Streaming
-DOMAIN,gamer2-cds.cdn.hinet.net,Streaming
 # > BBC iPlayer
 USER-AGENT,BBCiPlayer*,Streaming
 DOMAIN-SUFFIX,bbc.co.uk,Streaming
@@ -90,14 +81,6 @@ DOMAIN-SUFFIX,dazn.com,Streaming
 DOMAIN-SUFFIX,dazn-api.com,Streaming
 DOMAIN,d151l6v8er5bdm.cloudfront.net,Streaming
 DOMAIN-KEYWORD,voddazn,Streaming
-# > Disney+
-USER-AGENT,Disney+*,Streaming
-DOMAIN-SUFFIX,bamgrid.com,Streaming
-DOMAIN-SUFFIX,disneyplus.com,Streaming
-DOMAIN-SUFFIX,disney-plus.net,Streaming
-DOMAIN-SUFFIX,disneystreaming.com,Streaming
-DOMAIN-SUFFIX,dssott.com,Streaming
-DOMAIN,cdn.registerdisney.go.com,Streaming
 # > DMM
 DOMAIN-SUFFIX,dmm.co.jp,Streaming
 DOMAIN-SUFFIX,dmm.com,Streaming
@@ -122,13 +105,6 @@ DOMAIN,foxsports01-i.akamaihd.net,Streaming
 DOMAIN,foxsports02-i.akamaihd.net,Streaming
 DOMAIN,foxsports03-i.akamaihd.net,Streaming
 DOMAIN,staticasiafox.akamaized.net,Streaming
-# > HBO NOW & Max
-USER-AGENT,HBO%20NOW*,Streaming
-DOMAIN-SUFFIX,hbo.com,Streaming
-DOMAIN-SUFFIX,hbogo.com,Streaming
-DOMAIN-SUFFIX,hbonow.com,Streaming
-USER-AGENT,HBOMAX*,Streaming
-DOMAIN-SUFFIX,hbomax.com,Streaming
 # > HBO GO HKG
 USER-AGENT,HBO%20GO%20PROD%20HKG*,Streaming
 DOMAIN-SUFFIX,hbogoasia.com,Streaming
