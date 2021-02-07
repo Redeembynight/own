@@ -1,13 +1,9 @@
-# NAME: Disney
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-11-19 17:35:18
-# USER-AGENT: 1
-# HOST-SUFFIX: 4
-# HOST: 1
-# TOTAL: 6
-HOST,cdn.registerdisney.go.com,Disney
-HOST-SUFFIX,bamgrid.com,Disney
-HOST-SUFFIX,disney-plus.net,Disney
-HOST-SUFFIX,disneyplus.com,Disney
-HOST-SUFFIX,dssott.com,Disney
-USER-AGENT,disney+*,Disney
+
+# > Disney+
+USER-AGENT,Disney+*,Disney+
+DOMAIN-SUFFIX,bamgrid.com,Disney+
+DOMAIN-SUFFIX,disneyplus.com,Disney+
+DOMAIN-SUFFIX,disney-plus.net,Disney+
+DOMAIN-SUFFIX,disneystreaming.com,Disney+
+DOMAIN-SUFFIX,dssott.com,Disney+
+DOMAIN,cdn.registerdisney.go.com,Disney+
