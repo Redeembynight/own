@@ -1,6 +1,4 @@
 # (DNS Cache Pollution)
-# > Apple
-DOMAIN,testflight.apple.com,PROXY
 # > Google
 DOMAIN-SUFFIX,appspot.com,PROXY
 DOMAIN-SUFFIX,blogger.com,PROXY
@@ -11,11 +9,6 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com,PROXY
 DOMAIN-SUFFIX,ytimg.com,PROXY
 DOMAIN-KEYWORD,google,PROXY
 DOMAIN-KEYWORD,.blogspot.,PROXY
-# > Microsoft
-DOMAIN-SUFFIX,aka.ms,PROXY
-DOMAIN-SUFFIX,onedrive.live.com,PROXY
-DOMAIN,az416426.vo.msecnd.net,PROXY
-DOMAIN,az668014.vo.msecnd.net,PROXY
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com,PROXY
 DOMAIN-SUFFIX,facebook.com,PROXY
@@ -43,19 +36,6 @@ DOMAIN-SUFFIX,twimg.com,PROXY
 DOMAIN-SUFFIX,twitpic.com,PROXY
 DOMAIN-SUFFIX,twitter.com,PROXY
 DOMAIN-SUFFIX,vine.co,PROXY
-# > Telegram
-DOMAIN-SUFFIX,telegra.ph,PROXY
-DOMAIN-SUFFIX,telegram.org,PROXY
-IP-CIDR,91.108.4.0/22,PROXY
-IP-CIDR,91.108.8.0/22,PROXY
-IP-CIDR,91.108.12.0/22,PROXY
-IP-CIDR,91.108.16.0/22,PROXY
-IP-CIDR,91.108.20.0/22,PROXY
-IP-CIDR,91.108.56.0/22,PROXY
-IP-CIDR,149.154.160.0/20,PROXY
-IP6-CIDR,2001:b28:f23d::/48,PROXY
-IP6-CIDR,2001:b28:f23f::/48,PROXY
-IP6-CIDR,2001:67c:4e8::/48,PROXY
 # > Line
 DOMAIN-SUFFIX,line.me,PROXY
 DOMAIN-SUFFIX,line-apps.com,PROXY
@@ -488,11 +468,6 @@ IP-CIDR,103.102.166.0/24,PROXY
 IP-CIDR,185.15.56.0/22,PROXY
 IP-CIDR,198.35.26.0/23,PROXY
 IP-CIDR,208.80.152.0/22,PROXY
-# > Telegram
-DOMAIN-SUFFIX,t.me,PROXY
-DOMAIN-SUFFIX,tdesktop.com,PROXY
-DOMAIN-SUFFIX,telegram.me,PROXY
-DOMAIN-SUFFIX,telesco.pe,PROXY
 # > Others
 DOMAIN-SUFFIX,noxinfluencer.com,PROXY
 DOMAIN-SUFFIX,smartmailcloud.com,PROXY
@@ -500,21 +475,7 @@ DOMAIN-SUFFIX,weebly.com,PROXY
 DOMAIN-SUFFIX,twitter.jp,PROXY
 
 # (Region-Restricted Access Denied)
-# ---(Apple)---
-# > Apple URL Shortener
-DOMAIN-SUFFIX,appsto.re,PROXY
-# > iBooks Store download
-DOMAIN,books.itunes.apple.com,PROXY
-# > App Store Preview
-DOMAIN,apps.apple.com,PROXY
-DOMAIN,itunes.apple.com,PROXY
-# > Spotlight
-DOMAIN,api-glb-sea.smoot.apple.com,PROXY
-# > Look Up
-DOMAIN-SUFFIX,smoot.apple.com,PROXY
-DOMAIN,lookup-api.apple.com,PROXY
-# > Apple Music Web
-DOMAIN,beta.music.apple.com,PROXY
+
 # ------
 # > Others
 DOMAIN-SUFFIX,bing.com,PROXY
