@@ -1,31 +1,25 @@
-
 # > bilibili
 DOMAIN-SUFFIX,biliapi.net,StreamingSE
-DOMAIN,api.bilibili.com,StreamingSE
-DOMAIN,www.bilibili.com,StreamingSE
+DOMAIN-SUFFIX,bilibili.com,StreamingSE
 DOMAIN,upos-hz-mirrorakam.akamaized.net,StreamingSE
-
-HOST-SUFFIX,acg.tv,StreamingSE
-HOST-SUFFIX,acgvideo.com,StreamingSE
-HOST-SUFFIX,b23.tv,StreamingSE
-HOST-SUFFIX,biliapi.com,StreamingSE
-HOST-SUFFIX,bilibili.tv,StreamingSE
-HOST-SUFFIX,biligame.com,StreamingSE
-HOST-SUFFIX,biligame.net,StreamingSE
-HOST-SUFFIX,bilivideo.com,StreamingSE
-HOST-SUFFIX,hdslb.com,StreamingSE
-HOST-SUFFIX,im9.com,StreamingSE
-USER-AGENT,*bili*,StreamingSE
-# > 愛奇藝台灣站
+# > 愛奇藝台灣站 & iQIYI
+DOMAIN-SUFFIX,iq.com,StreamingSE
 DOMAIN,cache.video.iqiyi.com,StreamingSE
-
-HOST-SUFFIX,qy.net,StreamingSE
-HOST-KEYWORD,qiyi,StreamingSE
-USER-AGENT,iqiyi*,StreamingSE
-USER-AGENT,qiyi*,StreamingSE
-IP-CIDR,101.224.0.0/13,StreamingSE
-IP-CIDR,101.227.0.0/16,StreamingSE
-IP-CIDR,119.176.0.0/12,StreamingSE
+DOMAIN,cache-video.iq.com,StreamingSE
+DOMAIN,intl.iqiyi.com,StreamingSE
+DOMAIN,intl-rcd.iqiyi.com,StreamingSE
+DOMAIN,intl-subscription.iqiyi.com,StreamingSE
+# (流媒体内容，非必须，省流量可注释)
+DOMAIN,akmcdnoversea-tw.inter.iqiyi.com,StreamingSE
+DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv,StreamingSE
+DOMAIN,chuangcachecdnoversea-tw.inter.iqiyi.com,StreamingSE
+DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,StreamingSE
+IP-CIDR,103.44.56.0/22,StreamingSE
+IP-CIDR,118.26.32.0/23,StreamingSE
+IP-CIDR,118.26.120.0/24,StreamingSE
+IP-CIDR,223.119.62.225/28,StreamingSE
+IP-CIDR,23.40.242.10/32,StreamingSE
+IP-CIDR,23.40.241.251/32,StreamingSE
 # > 芒果TV国际
 DOMAIN-SUFFIX,api.mgtv.com,StreamingSE
 # > WeTV
