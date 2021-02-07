@@ -107,3 +107,19 @@ DOMAIN,www-cdn.icloud.com.akadns.net,PROXY
 #DOMAIN,gdmf.apple.com,REJECT
 #DOMAIN,updates-http.cdn-apple.com,REJECT
 #DOMAIN,xp.apple.com,REJECT
+
+# ---(Apple)---
+# > Apple URL Shortener
+DOMAIN-SUFFIX,appsto.re,PROXY
+# > iBooks Store download
+DOMAIN,books.itunes.apple.com,PROXY
+# > App Store Preview
+DOMAIN,apps.apple.com,PROXY
+DOMAIN,itunes.apple.com,PROXY
+# > Spotlight
+DOMAIN,api-glb-sea.smoot.apple.com,PROXY
+# > Look Up
+DOMAIN-SUFFIX,smoot.apple.com,PROXY
+DOMAIN,lookup-api.apple.com,PROXY
+# > Apple Music Web
+DOMAIN,beta.music.apple.com,PROXY
