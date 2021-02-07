@@ -25,14 +25,6 @@ USER-AGENT,SoundCloud*,Streaming
 DOMAIN-SUFFIX,p-cdn.us,Streaming
 DOMAIN-SUFFIX,sndcdn.com,Streaming
 DOMAIN-SUFFIX,soundcloud.com,Streaming
-# > Spotify
-USER-AGENT,Spotify*,Streaming
-DOMAIN-SUFFIX,pscdn.co,Streaming
-DOMAIN-SUFFIX,scdn.co,Streaming
-DOMAIN-SUFFIX,spotify.com,Streaming
-DOMAIN-SUFFIX,spoti.fi,Streaming
-DOMAIN-KEYWORD,spotify.com,Streaming
-DOMAIN-KEYWORD,-spotify-com,Streaming
 # > TIDAL
 USER-AGENT,TIDAL*,Streaming
 DOMAIN-SUFFIX,tidal.com,Streaming
@@ -159,39 +151,6 @@ DOMAIN,d349g9zuie06uo.cloudfront.net,Streaming
 USER-AGENT,mytv*,Streaming
 DOMAIN-SUFFIX,mytvsuper.com,Streaming
 DOMAIN-SUFFIX,tvb.com,Streaming
-# > Netflix
-USER-AGENT,Argo*,Streaming
-DOMAIN-SUFFIX,netflix.com,Streaming
-DOMAIN-SUFFIX,netflix.net,Streaming
-DOMAIN-SUFFIX,nflxext.com,Streaming
-DOMAIN-SUFFIX,nflximg.com,Streaming
-DOMAIN-SUFFIX,nflximg.net,Streaming
-DOMAIN-SUFFIX,nflxso.net,Streaming
-DOMAIN-SUFFIX,nflxvideo.net,Streaming
-DOMAIN-SUFFIX,netflixdnstest0.com,Streaming
-DOMAIN-SUFFIX,netflixdnstest1.com,Streaming
-DOMAIN-SUFFIX,netflixdnstest2.com,Streaming
-DOMAIN-SUFFIX,netflixdnstest3.com,Streaming
-DOMAIN-SUFFIX,netflixdnstest4.com,Streaming
-DOMAIN-SUFFIX,netflixdnstest5.com,Streaming
-DOMAIN-SUFFIX,netflixdnstest6.com,Streaming
-DOMAIN-SUFFIX,netflixdnstest7.com,Streaming
-DOMAIN-SUFFIX,netflixdnstest8.com,Streaming
-DOMAIN-SUFFIX,netflixdnstest9.com,Streaming
-DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-,Streaming
-DOMAIN-KEYWORD,dualstack.ichnaea-web-,Streaming
-IP-CIDR,23.246.0.0/18,Streaming
-IP-CIDR,37.77.184.0/21,Streaming
-IP-CIDR,45.57.0.0/17,Streaming
-IP-CIDR,64.120.128.0/17,Streaming
-IP-CIDR,66.197.128.0/17,Streaming
-IP-CIDR,108.175.32.0/20,Streaming
-IP-CIDR,192.173.64.0/18,Streaming
-IP-CIDR,198.38.96.0/19,Streaming
-IP-CIDR,198.45.48.0/20,Streaming
-IP-CIDR,34.210.42.111/32,Streaming
-IP-CIDR,52.89.124.203/32,Streaming
-IP-CIDR,54.148.37.5/32,Streaming
 # > niconico
 USER-AGENT,Niconico*,Streaming
 DOMAIN-SUFFIX,dmc.nico,Streaming
@@ -212,17 +171,6 @@ DOMAIN-SUFFIX,pornhubpremium.com,Streaming
 USER-AGENT,TaiwanGood*,Streaming
 DOMAIN-SUFFIX,skyking.com.tw,Streaming
 DOMAIN,hamifans.emome.net,Streaming
-# > TikTok
-USER-AGENT,TikTok*,Streaming
-DOMAIN-SUFFIX,byteoversea.com,Streaming
-DOMAIN-SUFFIX,ibytedtos.com,Streaming
-DOMAIN-SUFFIX,muscdn.com,Streaming
-DOMAIN-SUFFIX,musical.ly,Streaming
-DOMAIN-SUFFIX,tiktok.com,Streaming
-DOMAIN-SUFFIX,tik-tokapi.com,Streaming
-DOMAIN-SUFFIX,tiktokcdn.com,Streaming
-DOMAIN-SUFFIX,tiktokv.com,Streaming
-DOMAIN-KEYWORD,-tiktokcdn-com,Streaming
 # > Twitch
 DOMAIN-SUFFIX,jtvnw.net,Streaming
 DOMAIN-SUFFIX,ttvnw.net,Streaming
