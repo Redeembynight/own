@@ -1,12 +1,7 @@
-HOST,hboasia1-i.akamaihd.net,HBO
-HOST,hboasia2-i.akamaihd.net,HBO
-HOST,hboasia3-i.akamaihd.net,HBO
-HOST,hboasia4-i.akamaihd.net,HBO
-HOST,hboasia5-i.akamaihd.net,HBO
-HOST-SUFFIX,hbo.com,HBO
-HOST-SUFFIX,hbogo.com,HBO
-HOST-SUFFIX,hbogoasia.com,HBO
-HOST-SUFFIX,hbogoasia.hk,HBO
-HOST-SUFFIX,hbonow.com,HBO
-USER-AGENT,hbo%20go%20prod%20hkg*,HBO
-USER-AGENT,hbo%20now*,HBO
+# > HBO NOW & Max
+USER-AGENT,HBO%20NOW*,HBO
+DOMAIN-SUFFIX,hbo.com,HBO
+DOMAIN-SUFFIX,hbogo.com,HBO
+DOMAIN-SUFFIX,hbonow.com,HBO
+USER-AGENT,HBOMAX*,HBO
+DOMAIN-SUFFIX,hbomax.com,HBO
