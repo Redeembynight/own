@@ -91,9 +91,7 @@ https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user) url script-response
 # Pillow (By @CheeryTodo)
 https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/pillow.js
 # noto笔记 @Alex0510
-#https://api.revenuecat.com/v1/subscribers url script-response-body https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/noto.js
-#mojo&noto
-^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[a-zA-Z0-9_-]*$) url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/revenuecat.js
+https://api.revenuecat.com/v1/subscribers url script-response-body https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/noto.js
 
 #mimo
 ^https:\/\/api\.getmimo\.com\/v1\/subscriptions$ url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/mimo.vip.js
