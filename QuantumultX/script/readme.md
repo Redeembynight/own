@@ -65,6 +65,8 @@
 
 #Pillow (By @CheeryTodo)
 
+#noto笔记 @Alex0510
+
 #mimo
 
 #boom
@@ -114,8 +116,6 @@
 #picsart美易
 
 #bear熊掌记 @Miao Miao
-
-#noto笔记 @Alex0510
 
 #小小影视 photonmang 
 
