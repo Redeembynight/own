@@ -1,7 +1,8 @@
 /*
 更新：2020-10-23
 *新增加小小影视老版本的广告去除方案。目前在使用老版本广告失效的，请重新更新下脚本并重新替换下rewrite_remote下的链接
-小小影视 unlock Vip&免广告
+小小影视 unlock Vip&免广告 解锁无限观影无限下载特权
+ @ photonmang
 感谢@GB-png，提供新方法
 QX:
 https:\/\/.*\..*\.com\/(ssp-svr\/ssp\/list3|ucp/index|getGlobalData) url script-response-body https://raw.githubusercontent.com/photonmang/quantumultX/master/xxys.js
