@@ -4,6 +4,9 @@
 小小影视 unlock Vip&免广告 解锁无限观影无限下载特权
  @ photonmang
 感谢@GB-png，提供新方法
+
+下载地址 http://t.cn/AiWI7o28
+
 QX:
 https:\/\/.*\..*\.com\/(ssp-svr\/ssp\/list3|ucp/index|getGlobalData) url script-response-body https://raw.githubusercontent.com/photonmang/quantumultX/master/xxys.js
 Surge:
