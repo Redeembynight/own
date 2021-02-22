@@ -1,6 +1,9 @@
 /*
+#Charger Master-充电助手（20201206）
 Unlocks by Cuttlefish 公众号：墨鱼手记
-# > 055 用电助手 炫酷充电更好了解电池（20201206）
+
+下载地址 https://apps.apple.com/us/app/charger-master/id1495536308
+
 https://api.yonekura.cn/3.6.8/uicommon/getuser url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/cdzs.js
 
 api.yonekura.cn
