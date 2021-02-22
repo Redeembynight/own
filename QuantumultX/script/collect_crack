@@ -1,31 +1,34 @@
 # 您可以在使用后手动将本模块禁用，以免产生不必要的MITM
 
-hostname = xrckeji.com, www.helloshiyu.com, cm.szsszykj.com, api_2496.kuwo.cn, api.interpreter.caiyunai.com, note.youdao.com, panel.getdailyart.com, api2.mubu.com, irecgo.softin-tech.com, app.flashdown365.com, appapi.neuralprisma.com, console.qker.com, wx.520gyh.com, book.haitunwallet.com, vira.llsapp.com, billing.peakcloud.org, zebra.maka.im, xianbeikeji.com, www.mindmeister.com, api.591master.com, 115.28.168.103, api.flexibits.com, avoscloud.com, api.reface.video, getway.radio.cn, api.dushu.io, r.51wnl-cq.com, api.shayujizhang.com, api2.fitplanapp.com, license.pdfexpert.com, outcut.szsszykj.com, www.40sishi.com, biz.caiyunapp.com, planner5d.com, www.api.monkeyuni.net, dayone.me, api.overhq.com, api.pushover.net, api-kinemaster-assetstore.*, api.sololearn.com, api.lingokids.com, api.revenuecat.com, api.getmimo.com, apimboom2.globaldelight.net, api.calm.com, www.calm.com, accounts.elevateapp.net, api.busuu.com, api.mondlylanguages.com, lambda.us-east-1.amazonaws.com, api.sync.me, origin-prod-phoenix.jibjab.com, api.meiease.c*, api.memrise.com, lcs-mobile-cops.adobe.io, engbright.com, photos.adobe.io, backend.getdrafts.com, apic.musixmatch.com, api.textnow.me, *.xunjie*.com, subs.platforms.team, api.gyrosco.pe, snailsleep.net, music.snailsleep.net, community.snailsleep.net, nmeditation.snailsleep.net, vsco.co, getuserinfo-globalapi.zymk.cn, api.picsart.c*, api.meiease.c*, buy.itunes.apple.com, *.xxjjappss.com, *.huaerdadi.com, ap*.intsig.net, p.du.163.com
+hostname = api.jiaonizuocai.com, xrckeji.com, www.helloshiyu.com, cm.szsszykj.com, api_2496.kuwo.cn, api.interpreter.caiyunai.com, note.youdao.com, panel.getdailyart.com, api2.mubu.com, irecgo.softin-tech.com, app.flashdown365.com, appapi.neuralprisma.com, console.qker.com, wx.520gyh.com, book.haitunwallet.com, vira.llsapp.com, billing.peakcloud.org, zebra.maka.im, xianbeikeji.com, www.mindmeister.com, api.591master.com, 115.28.168.103, api.flexibits.com, avoscloud.com, api.reface.video, getway.radio.cn, api.dushu.io, r.51wnl-cq.com, api.shayujizhang.com, api2.fitplanapp.com, license.pdfexpert.com, outcut.szsszykj.com, www.40sishi.com, biz.caiyunapp.com, planner5d.com, www.api.monkeyuni.net, dayone.me, api.overhq.com, api.pushover.net, api-kinemaster-assetstore.*, api.sololearn.com, api.lingokids.com, api.revenuecat.com, api.getmimo.com, apimboom2.globaldelight.net, api.calm.com, www.calm.com, accounts.elevateapp.net, api.busuu.com, api.mondlylanguages.com, lambda.us-east-1.amazonaws.com, api.sync.me, origin-prod-phoenix.jibjab.com, api.meiease.c*, api.memrise.com, lcs-mobile-cops.adobe.io, engbright.com, photos.adobe.io, backend.getdrafts.com, apic.musixmatch.com, api.textnow.me, *.xunjie*.com, subs.platforms.team, api.gyrosco.pe, snailsleep.net, music.snailsleep.net, community.snailsleep.net, nmeditation.snailsleep.net, vsco.co, getuserinfo-globalapi.zymk.cn, api.picsart.c*, api.meiease.c*, buy.itunes.apple.com, *.xxjjappss.com, *.huaerdadi.com, ap*.intsig.net, p.du.163.com
 
-# > 063 读书笔记 Pro（20210106）
+#菜谱大全 解锁VIP功能（20200906）
+https?:\/\/api\.jiaonizuocai\.com url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/cpdq.js
+
+#读书笔记 Pro（20210106）
 https://xrckeji.com/union/app/user/query url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/mzjz.js
-# > 061 萌猪记账 Pro（20210106）
+#萌猪记账 Pro（20210106）
 https://xrckeji.com/itally/app/user/query url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/mzjz.js
 
-# 睡眠助手 解锁VIP独享的白噪音乐（20201010）
+#睡眠助手 解锁VIP独享的白噪音乐（20201010）
 https://www.helloshiyu.com/sleep/user/profile url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/smzs.js
 
-# 趣制作 解锁会员模板视频（20200925）Attention：登录使用
+#趣制作 解锁会员模板视频（20200925）Attention：登录使用
 https://cm.szsszykj.com/interface/GetVip.php url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/qzz.js
 
 #2496音乐解锁vip ( by 少年歌行PRO )
 ^http?:\/\/api\_\d{4}\.kuwo\.cn\/front\/user\/vipstatus$ url script-response-body https://raw.githubusercontent.com/sngxpro/QuantumultX/master/2496/2496.js
 
-# 彩云小译   (by @superuv)
+#彩云小译   (by @superuv)
 ^https:\/\/api\.interpreter\.caiyunai\.com\/v1\/user url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/cyxy.js
 
-# 有道云笔记VIP (ByAlex0510)
+#有道云笔记VIP (ByAlex0510)
 https://note.youdao.com/yws/(mapi/payment|api/self) url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/ydybj.js
 
-# 每日艺术 解锁vip权限（20201123）
+#每日艺术 解锁vip权限（20201123）
 https://panel.getdailyart.com/APIMobile/users/single url response-body account_type":"0 response-body account_type":"2
 
-# 幕布 @ZhiYi-N
+#幕布 @ZhiYi-N
 https:\/\/api2\.mubu\.com\/v3\/api\/user\/current_user url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/unlock/mainland/MuBu.js
 
 #########以下可在US商店使用
