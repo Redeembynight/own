@@ -4,7 +4,7 @@ Unlocks 公众号：墨鱼手记
 
 下载地址 https://apps.apple.com/us/app/color-collect-palette-studio/id1439521846
 [rewrite_local]
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/to_test/secai.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/unlock/ColorCollect.js
 
 [mitm]
 hostname = buy.itunes.apple.com,
