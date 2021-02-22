@@ -1,9 +1,27 @@
 # 重新整理中
 # js文件备份在unlock内
 # 
-#   由于本人常用美区商店，目前仅整理了美区商店中有的app
+#   由于本人常用美区商店，优先整理了美区商店中有的app
 #   已整理app
 #
+
+#睡眠助手 解锁VIP独享的白噪音乐（20201010）
+
+#趣制作 解锁会员模板视频（20200925）Attention：登录使用
+
+#2496音乐解锁vip ( by 少年歌行PRO )
+^http?:\/\/api\_\d{4}\.kuwo\.cn\/front\/user\/vipstatus$ url script-response-body https://raw.githubusercontent.com/sngxpro/QuantumultX/master/2496/2496.js
+
+#彩云小译   (by @superuv)
+
+#有道云笔记VIP (ByAlex0510)
+
+#每日艺术 解锁vip权限（20201123）
+
+#幕布 @ZhiYi-N
+
+#########以下可在US商店使用
+#ScreenRecorder+ 录丸解锁vip ( by 少年歌行PRO )
 
 #闪电下载vip
 
