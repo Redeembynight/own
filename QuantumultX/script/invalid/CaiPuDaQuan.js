@@ -1,6 +1,6 @@
 /*
 Unlocks by photonmang 公众号：墨鱼手记
-# > 017 菜谱大全 解锁VIP功能（20200906）
+# 菜谱大全 解锁VIP功能（20200906）
 https?:\/\/api\.jiaonizuocai\.com url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/cpdq.js
 
 api.jiaonizuocai.com, 
