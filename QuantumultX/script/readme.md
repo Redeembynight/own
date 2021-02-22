@@ -10,7 +10,6 @@
 #趣制作 解锁会员模板视频（20200925）Attention：登录使用
 
 #2496音乐解锁vip ( by 少年歌行PRO )
-^http?:\/\/api\_\d{4}\.kuwo\.cn\/front\/user\/vipstatus$ url script-response-body https://raw.githubusercontent.com/sngxpro/QuantumultX/master/2496/2496.js
 
 #彩云小译   (by @superuv)
 
