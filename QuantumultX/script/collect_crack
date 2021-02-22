@@ -8,6 +8,8 @@ https://panel.getdailyart.com/APIMobile/users/single url response-body account_t
 # 幕布 @ZhiYi-N
 https:\/\/api2\.mubu\.com\/v3\/api\/user\/current_user url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/unlock/mainland/mb.js
 
+
+#########以下可在US商店使用
 #闪电下载vip
 ^http\:\/\/app\.flashdown365\.com\/ios\/login url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/sdxz.js
 
