@@ -1,9 +1,11 @@
 /*
-Quantumult X 脚本:
+#Color Collect 色采 （Attention：恢复购买
 Unlocks 公众号：墨鱼手记
+
+下载地址 https://apps.apple.com/us/app/color-collect-palette-studio/id1439521846
 [rewrite_local]
-#Unlocks （Attention：恢复购买
 ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/to_test/secai.js
+
 [mitm]
 hostname = buy.itunes.apple.com,
 */
