@@ -5,6 +5,10 @@
 #   已整理app
 #
 
+#读书笔记 Pro（20210106）
+
+#萌猪记账 Pro（20210106）
+
 #睡眠助手 解锁VIP独享的白噪音乐（20201010）
 
 #趣制作 解锁会员模板视频（20200925）Attention：登录使用
@@ -20,6 +24,10 @@
 #幕布 @ZhiYi-N
 
 #########以下可在US商店使用
+#Charger Master-充电助手（20201206）
+
+#Co Sleep-小睡眠（by 黑黑酱）
+
 #ScreenRecorder+ 录丸解锁vip ( by 少年歌行PRO )
 
 #闪电下载vip
@@ -133,6 +141,8 @@
 #picsart美易
 
 #bear熊掌记 @Miao Miao
+
+#Color Collect 色采
 
 #小小影视 photonmang 
 
